@@ -1,4 +1,5 @@
 #Find average of 5 numbers
+#Comment added by afafadia
 #test comment
 if __name__ == '__main__':
     num1 = float(input("Enter the first number: "))
